@@ -23,4 +23,4 @@ Na construção do projeto foram utilizadas as seguintes ferramentas:
 
 ## Deploy 
 
-🚀 [Projeto](https://fabiomoura-m.github.io/projeto_modulo_css/)
+🚀 [Projeto](https://music-club-fabiomoura-m.vercel.app/)
