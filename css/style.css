@@ -24,6 +24,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #f9f9f9;
     font-family: 'Roboto', sans-serif;
@@ -157,6 +161,7 @@ button {
 }
 
 .profile {
+    padding: 0;
     height: 3rem;
     border-radius: var(--border-radius);
 }
@@ -586,6 +591,9 @@ textarea::-webkit-scrollbar {
     right: 0;
     transition: 0.3s;
     pointer-events: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .back-top:hover {
     cursor: pointer;
